@@ -21,6 +21,11 @@ import com.android.volley.toolbox.NetworkImageView;
 import com.android.volley.toolbox.StringRequest;
 import com.music.searchexample.app.MusicSearchController;
 
+/**
+ * @author Asif
+ * This activity is responsible for showing lyric details.
+ * For the item clicked in the MusicSearchActivity.
+ */
 public class LyricsActivity extends Activity {
 	// Log tag
 	private static final String TAG = LyricsActivity.class.getSimpleName();
