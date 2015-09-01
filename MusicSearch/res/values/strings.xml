@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music Search</string>
+    <string name="lyrics_name">Lyrics Detail</string>
+    <string name="action_settings">Music Settings</string>
+    <string name="description_zoom_touch_close">Expanded image (touch to close)</string>
+    <string name="button_search">SEARCH</string>
+    <string name="edit_music_search">Edit Music Search.....</string>
+
+</resources>
